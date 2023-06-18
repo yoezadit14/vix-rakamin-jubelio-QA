@@ -1,7 +1,10 @@
 Persiapan melakukan automation testing :
 * Download dan install Visual Studio Code (https://code.visualstudio.com/download)
 * Download dan install Python (https://www.python.org/downloads/)
+    ** Install selenium ("pip install selenium")
     ** Install pytest ("pip install pytest")
+* Download webdriver Firefox (Geckodriver : https://github.com/mozilla/geckodriver/releases)
+* Setting environment path Windows kalian (https://youtu.be/hoHg8BPbeuM?list=PLW3Gs0ff2b79n_4Qy__mHZO9EcIiB4NZZ&t=585) 
 
 
 Langkah melakukan automation testing :
